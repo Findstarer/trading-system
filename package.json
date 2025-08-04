@@ -1,0 +1,22 @@
+{
+  "name": "payment-system-learning",
+  "version": "1.0.0",
+  "description": "支付系统学习资源",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "serve": "vuepress serve docs"
+  },
+  "keywords": [
+    "payment",
+    "system",
+    "learning",
+    "architecture"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.60"
+  }
+} 
